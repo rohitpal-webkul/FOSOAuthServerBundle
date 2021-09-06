@@ -6,6 +6,8 @@ FOSOAuthServerBundle
 
 ## Documentation
 
+Forked from https://github.com/FriendsOfSymfony/FOSOAuthServerBundle
+
 The bulk of the documentation is stored in the `Resources/doc/index.md` file in this bundle:
 
 [Read the Documentation for master](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle/blob/master/Resources/doc/index.md)
